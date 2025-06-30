@@ -26,4 +26,7 @@ Clone the repo and install the dependencies:
 git clone https://github.com/YOUR-USERNAME/random-secrets-app.git
 cd random-secrets-app
 npm install
+node index.js
 ```
+
+Go to http://localhost:3000 in your browser — you'll see a random secret and the name of the person who (supposedly) shared it.
